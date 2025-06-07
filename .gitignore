@@ -1,3 +1,7 @@
+#compile
+Binaries/
+Intermediate/
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,5 @@
 *.exe
 *.out
 *.app
+
+
